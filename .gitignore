@@ -1,2 +1,4 @@
-public/
+public
+themes
 .idea/
+*DS_Store
