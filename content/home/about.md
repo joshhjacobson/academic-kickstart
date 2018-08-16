@@ -36,4 +36,6 @@ weight = 5
 
 # Welcome
 
-I am a fourth year student in Applied Mathematics at the University of Colorado Boulder. My research includes the development of forecasting metrics using simulated random field realizations, and visualization of multiobjective optimization problems. I am also completing minors in Computer Science and Atmospheric Science. While at CU, I have also had the opportunity to serve as a Resident Advisor in Andrews Hall, home of the Engineering Honors Program. 
+I am a fourth year student in Applied Mathematics at the University of Colorado Boulder. My research includes the development of forecasting metrics using simulated random field realizations, and visualization of multiobjective optimization problems. I am also pursing minors in Computer Science and Atmospheric Science. After completing my master's in Applied Math, I plan to attend a graduate program in climate sciences.
+
+Raised in Colorado, I am intentional about making time for skiing, cycling, backpacking, climbing, and just about anything outdoors.
