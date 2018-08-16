@@ -16,7 +16,7 @@ image_preview = ""
 tags = ["visualization"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/joshhjacobson/parasol#readme"
+external_link = "https://github.com/joshhjacobson/parasol"
 
 # Does the project detail page use math formatting?
 math = false
