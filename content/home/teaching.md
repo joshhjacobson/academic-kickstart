@@ -13,6 +13,8 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 60
 
+math = false
+
 +++
 
 I have been a learning assistant for the following courses at the University of Colorado Boulder:
