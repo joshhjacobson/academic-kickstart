@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Climate Modeling",
     "Earth System Science",
-    "Probabilistic Forecasting",
+    "Statistical Climatology",
     "Data Visualization"
   ]
 
@@ -36,6 +36,6 @@ weight = 5
 
 # Welcome
 
-I am a fourth year student in Applied Mathematics at the University of Colorado Boulder. My research includes the development of forecasting metrics using simulated random field realizations, and visualization of multiobjective optimization problems. I am also pursing minors in Computer Science and Atmospheric Science. After completing my master's in Applied Math, I plan to attend a graduate program in climate sciences.
+I am a fourth year Bachelor's/Master's student in Applied Mathematics at the University of Colorado Boulder. I think an understanding of math is the foundation of impactful science as it is the language used to describe natural phenomena.
 
-Raised in Colorado, I am intentional about making time for skiing, cycling, backpacking, climbing, and just about anything outdoors.
+My Master's thesis involves the development of forecasting metrics using simulated random field realizations, supervised by Professor [Will Kleiber](http://amath.colorado.edu/faculty/kleiberw/). I am also a member of the [Kasprzyk Research Group](https://www.colorado.edu/lab/krg/) where I am developing visualization software for multiobjective optimization problems. Upon graduation, I plan to attend a graduate program in climate sciences.
