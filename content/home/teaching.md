@@ -19,5 +19,5 @@ math = false
 
 I have been a learning assistant for the following courses at the University of Colorado Boulder:
 
-- APPM 4350/5350: Fourier series and boundary value problems (Fall 2018)
+- APPM 4350 / 5350: Fourier series and boundary value problems (Fall 2018)
 - CSCI 1320: Intro to programming for engineers (Fall 2016)

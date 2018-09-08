@@ -22,11 +22,6 @@ weight = 5
   institution = "University of Colorado Boulder"
   year = 2020
 
-# [[education.courses]]
-#   course = "MEng in Artificial Intelligence"
-#   institution = "Massachusetts Institute of Technology"
-#   year = 2009
-
 [[education.courses]]
   course = "BS in Applied Mathematics"
   institution = "University of Colorado Boulder"
