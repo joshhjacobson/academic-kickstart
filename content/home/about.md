@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Geostatistics",
-    "Statistical Climatology",
-    "Climate Science",
+    "Spatio-temporal Statistics",
+    "Environmental Statistics",
+    "Stochastic Modeling",
     "Data Visualization"
   ]
 
@@ -31,4 +31,6 @@ weight = 5
 
 # Welcome
 
-I am a fifth year Bachelor's/Master's student in Applied Mathematics at the University of Colorado Boulder. My Master's thesis involves the development of a novel ensemble forecast verification metric for spatial calibration in precipitation fields, supervised by Professor [Will Kleiber](http://amath.colorado.edu/faculty/kleiberw/). This summer, I will be joining [Jupiter Intelligence](https://jupiterintel.com/) as a Data Science Intern. I have also been involved with the [Kasprzyk Research Group](https://www.colorado.edu/lab/krg/) where I developed visualization software for multiobjective optimization problems. Upon graduation, I plan to attend a PhD program in statistics or geography.
+I am a Master's student in applied mathematics at the University of Colorado Boulder where I'm engaged with the nexus of statistics, climate, and computer science. My thesis involves the development of a novel ensemble forecast verification metric for spatial calibration in precipitation fields, supervised by [Will Kleiber](http://amath.colorado.edu/faculty/kleiberw/).  I have also been involved with the [Kasprzyk Research Group](https://www.colorado.edu/lab/krg/) where I developed visualization software for multiobjective optimization problems. Upon graduation, I am preparing to pursue a PhD in Statistics.
+
+This summer, I've been modeling regional sea level rise projections for the 21st century as a Data Science Intern at [Jupiter Intelligence](https://jupiterintel.com/). On the weekends, you can find me skiing, mountain biking, or general thrill seeking somewhere in the Rocky Mountains.
