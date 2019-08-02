@@ -276,7 +276,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Talks"
-  url = "#talks"
+  url = "#talks_selected"
   weight = 4
 
 # [[menu.main]]
@@ -288,7 +288,7 @@ enableGitInfo = false
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[menu.main]]
    name = "Resume"
-   url = "files/JacobsonResume.pdf"
+   url = "files/Jacobson_Resume.pdf"
    weight = 6
 
 [[menu.main]]
