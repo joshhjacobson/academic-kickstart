@@ -273,10 +273,10 @@ enableGitInfo = false
 #   url = "#publications_selected"
 #   weight = 3
 
-# [[menu.main]]
-#   name = "Talks"
-#   url = "#talks_selected"
-#   weight = 4
+[[menu.main]]
+  name = "Talks"
+  url = "#talks_selected"
+  weight = 4
 
 # [[menu.main]]
 #   name = "Teaching"

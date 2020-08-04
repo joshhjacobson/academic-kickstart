@@ -20,7 +20,7 @@ event_url = "http://rmacc.org/HPCSymposium"
 location = "Boulder, Colorado"
 
 # Is this a selected talk? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
