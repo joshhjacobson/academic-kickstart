@@ -36,4 +36,4 @@ weight = 5
 
 # Welcome
 
-I am a PhD student in the [Center for Environmental](https://niasra.uow.edu.au/cei/index.html) Informatics at the [University of Wollongong](https://www.uow.edu.au/). My research involves the development of statistical methods to predict atmospheric carbon dioxide fluxes, supervised by Noel Cressie and Andrew Zammit-Mangion.
+I am a PhD student in the [Centre for Environmental Informatics](https://niasra.uow.edu.au/cei/index.html) at the [University of Wollongong](https://www.uow.edu.au/). My research involves the development of statistical methods to predict atmospheric carbon dioxide fluxes, supervised by Noel Cressie and Andrew Zammit-Mangion.
