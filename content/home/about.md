@@ -18,6 +18,11 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
+  course = "PhD in Applied Statistics"
+  institution = "University of Wollongong"
+  year = "expected 2024"
+
+[[education.courses]]
   course = "MS in Applied Mathematics"
   institution = "University of Colorado Boulder"
   year = 2020
@@ -31,6 +36,4 @@ weight = 5
 
 # Welcome
 
-I am a Master's student in applied mathematics at the University of Colorado Boulder where I'm engaged in the nexus of statistics, climate, and computer science. My thesis involves the development of a novel ensemble forecast verification metric for spatial calibration in precipitation fields, supervised by [Will Kleiber](http://amath.colorado.edu/faculty/kleiberw/).  I have also been involved with the [Kasprzyk Research Group](https://www.colorado.edu/lab/krg/) where I developed visualization software for multi-objective optimization problems. Upon graduation, I am preparing to pursue a PhD in statistics with environmental applications.
-
-This summer, I've been modeling regional sea level rise projections for the 21st century as a Data Science Intern at [Jupiter Intelligence](https://jupiterintel.com/). On the weekends, you can find me skiing, mountain biking, or general thrill seeking somewhere in the Rocky Mountains.
+I am a PhD student in the [Center for Environmental](https://niasra.uow.edu.au/cei/index.html) Informatics at the [University of Wollongong](https://www.uow.edu.au/). My research involves the development of statistical methods to predict atmospheric carbon dioxide fluxes, supervised by Noel Cressie and Andrew Zammit-Mangion.

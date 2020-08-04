@@ -10,7 +10,7 @@ title = "Josh Jacobson"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2019"
+copyright = "&copy; 2020"
 
 theme = "academic"
 enableEmoji = true
@@ -55,17 +55,16 @@ enableGitInfo = false
 
   # Your details.
   name = "Josh Jacobson"
-  role = "Data Science Intern"
+  role = "PhD Student"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   organizations = [
-  { name = "Jupiter Intelligence", url = "" },
-  { name = "University of Colorado Boulder", url = "" } ]
+  { name = "University of Wollongong", url = "https://www.uow.edu.au/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "josh.jacobson@colorado.edu"
+  email = "joshuah.jacobson@gmail.com"
   address = "Boulder, CO"
   office_hours = ""
   phone = ""
@@ -187,7 +186,7 @@ enableGitInfo = false
   # Configuration of talk pages.
   [params.talks]
     # Show talk time?
-    time = true
+    time = false
 
   # Configuration of publication pages.
   [params.publications]
@@ -228,7 +227,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:josh.jacobson@colorado.edu"
+    link = "mailto:joshuah.jacobson@gmail.com"
 
   # [[params.social]]
   #   icon = "google-scholar"
@@ -274,10 +273,10 @@ enableGitInfo = false
 #   url = "#publications_selected"
 #   weight = 3
 
-[[menu.main]]
-  name = "Talks"
-  url = "#talks_selected"
-  weight = 4
+# [[menu.main]]
+#   name = "Talks"
+#   url = "#talks_selected"
+#   weight = 4
 
 # [[menu.main]]
 #   name = "Teaching"
